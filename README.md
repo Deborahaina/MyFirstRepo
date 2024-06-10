@@ -18,3 +18,9 @@
 * Fourth item
 
 *Everything* is going according to **plan**. italics and bolded text
+
+
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
+
