@@ -9,7 +9,7 @@
 
 #### The quarterly results look great! header4
 
-    - Revenue was off the chart.        bullet points
-    - Profits were higher than ever.    bullet points
+- Revenue was off the chart.        bullet points
+- Profits were higher than ever.    bullet points
 
 *Everything* is going according to **plan**. italics and bolded text
