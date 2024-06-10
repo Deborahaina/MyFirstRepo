@@ -12,4 +12,9 @@
 - Revenue was off the chart.        bullet points
 - Profits were higher than ever.    bullet points
 
+* First item
+* Second item
+* Third item
+* Fourth item
+
 *Everything* is going according to **plan**. italics and bolded text
